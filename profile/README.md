@@ -1,4 +1,4 @@
-# Leave Me Alone !
+# Leave Me Alone
 
 Welcome to the organization LeaveMeAlone.
 You can find the project sources here, the technicals documentation, the diagrams and the presentations.
@@ -14,6 +14,6 @@ You will notice that the global project contains differents repositories in whic
 
 ## Git accounts
 
-Steve Strazzeri = steve-strz
-Ian Ledig = Pacito2, U73E328
-Alexandre Viale = Alexandre Viale
+* Steve Strazzeri = **steve-strz**
+* Ian Ledig = **Pacito2**, **U73E328**, **Ian Ledig**
+* Alexandre Viale = **Alexandre Viale**
