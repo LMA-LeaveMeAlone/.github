@@ -11,3 +11,9 @@ You will notice that the global project contains differents repositories in whic
 * **mobile-app**, which is the mobile application for android. The user will be able to interact with the door.
 
 [![N|Solid](https://fr.seaicons.com/wp-content/uploads/2015/10/Google-Drive-icon2.png)](https://drive.google.com/drive/folders/15qYkY9Z0tecIKz6knmmcrQAtK0Npd6_I?usp=sharing)
+
+## Git accounts
+
+Steve Strazzeri = steve-strz
+Ian Ledig = Pacito2, U73E328
+Alexandre Viale = Alexandre Viale
